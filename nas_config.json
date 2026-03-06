@@ -1,0 +1,4 @@
+{
+  "url": "https://[나스주소]/orders.json",
+  "admin_url": "https://[나스주소]/permission_check.json"
+}
